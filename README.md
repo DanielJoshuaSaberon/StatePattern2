@@ -40,6 +40,6 @@ The system currently relies on conditional statements within the VendingMachine 
 - Introduce a reference to the current `VendingMachineState` object.
 - Delegate actions like `selectItem`, `insertCoin`, `dispenseItem`, and `setOutOfOrder` to the current state object through its corresponding methods.
 
-UML Diagram: 
+### UML Diagram: 
 
 ![Blank diagram (1)](https://github.com/user-attachments/assets/93c4ac8d-7ad0-47eb-a036-d4c90dcf0db6)
