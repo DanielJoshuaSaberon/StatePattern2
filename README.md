@@ -42,4 +42,4 @@ The system currently relies on conditional statements within the VendingMachine 
 
 UML Diagram: 
 
-![Blank diagram](https://github.com/user-attachments/assets/f9072050-8fd8-4075-98c2-51fd4874ba94)
+![Blank diagram (1)](https://github.com/user-attachments/assets/93c4ac8d-7ad0-47eb-a036-d4c90dcf0db6)
